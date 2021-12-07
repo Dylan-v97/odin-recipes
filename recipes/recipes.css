@@ -1,0 +1,16 @@
+
+body{
+    background-color: rgb(148, 222, 245);
+}
+
+.titulo{
+    text-align: center;
+    font-size: 5em;
+    text-decoration: underline rgb(224, 27, 76);
+    margin: 27px;
+}
+
+.banner{
+    height: auto;
+    width: 500px;
+}
